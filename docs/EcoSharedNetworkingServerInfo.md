@@ -1,0 +1,50 @@
+# EcoSharedNetworkingServerInfo
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **str** |  | [optional] 
+**name** | **str** |  | [optional] 
+**address** | **str** |  | [optional] 
+**external** | **bool** |  | [optional] 
+**game_port** | **int** |  | [optional] 
+**web_port** | **int** |  | [optional] 
+**is_lan** | **bool** |  | [optional] 
+**description** | **str** |  | [optional] 
+**detailed_description** | **str** |  | [optional] 
+**category** | [**EcoSharedStatesServerCategory**](EcoSharedStatesServerCategory.md) |  | [optional] 
+**online_players** | **int** |  | [optional] 
+**total_players** | **int** |  | [optional] 
+**online_players_names** | **list[str]** |  | [optional] 
+**admin_online** | **bool** |  | [optional] 
+**time_since_start** | **float** |  | [optional] 
+**time_left** | **float** |  | [optional] 
+**animals** | **int** |  | [optional] 
+**plants** | **int** |  | [optional] 
+**laws** | **int** |  | [optional] 
+**world_size** | **str** |  | [optional] 
+**version** | **str** |  | [optional] 
+**economy_desc** | **str** |  | [optional] 
+**skill_specialization** | **str** |  | [optional] 
+**skill_specialization_setting** | [**EcoSharedNetworkingSkillSpecializationSetting**](EcoSharedNetworkingSkillSpecializationSetting.md) |  | [optional] 
+**world_objective** | **str** |  | [optional] 
+**language** | **str** |  | [optional] 
+**has_password** | **bool** |  | [optional] 
+**has_meteor** | **bool** |  | [optional] 
+**distribution_station_items** | **str** |  | [optional] 
+**playtimes** | **str** |  | [optional] 
+**discord_address** | **str** |  | [optional] 
+**is_paused** | **bool** |  | [optional] 
+**active_and_online_players** | **int** |  | [optional] 
+**peak_active_players** | **int** |  | [optional] 
+**max_active_players** | **int** |  | [optional] 
+**exhaustion_after_hours** | **float** |  | [optional] 
+**is_limiting_hours** | **bool** |  | [optional] 
+**server_achievements** | **list[str]** |  | [optional] 
+**relay_address** | **str** |  | [optional] 
+**access** | **str** |  | [optional] 
+**join_url** | **str** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
